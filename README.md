@@ -433,7 +433,7 @@ It is best practice to clean up resources you use in the duration of your progra
 
 You are provided with only one basic unit test file for testhash. This file only has minimal test cases and is only meant to give you an idea of how to write your own unit test files.
 
-**You must write unit test files for some of the functions (as listed below), as well as add several of your own thorough test cases to all of the unit test files. You need to add as many unit tests as necessary to cover all possible use cases of each function. You will lose points if you don’t do this!**
+**You must write unit test files for some of the functions (as listed below), as well as add several of your own thorough test cases to all of the unit test files. You need to add ***at least 3 base cases and 1 edge case for gettiing full credit***. We recommand you to have as many unit tests as necessary to cover all possible use cases of each function.**
 
 You are responsible for making sure you thoroughly test your functions. Make sure you think about boundary cases, special cases, general cases, extreme limits, error cases, etc. as appropriate for each function. The Makefile includes the rules for compiling these tests. Keep in mind that your unit tests will not build until all required files for that specific unit test have been written.
 
